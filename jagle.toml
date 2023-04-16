@@ -1,0 +1,3 @@
+[compiler]
+keep_source = true
+cmd = "c:/msys64/mingw64/bin/g++.exe -std=c++17 {source} -o {target}.exe -static-libstdc++"
